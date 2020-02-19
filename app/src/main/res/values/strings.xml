@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasLayoutLinear</string>
+    <string name="todo">TODO</string>
+    <string name="are_you_18">Are You 18+ ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
